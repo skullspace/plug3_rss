@@ -35,6 +35,6 @@
   "rules": {
     "allowAutojoin": "",
     "allowAutorespond": "",
-    "allowAutowoot": ""
+    "allowAutowoot": "true"
   }
 }
